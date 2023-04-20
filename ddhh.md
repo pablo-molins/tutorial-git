@@ -158,3 +158,7 @@ Toda persona tiene derecho a que se establezca un orden social e internacional e
 ## Artículo 30
 
 Nada en esta Declaración podrá interpretarse en el sentido de que confiere derecho alguno al Estado, a un grupo o a una persona, para emprender y desarrollar actividades o realizar actos tendientes a la supresión de cualquiera de los derechos y libertades proclamados en esta Declaración.
+
+## Artículo 31
+
+Derecho al no examen.
